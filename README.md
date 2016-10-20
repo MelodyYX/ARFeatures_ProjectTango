@@ -22,14 +22,14 @@ on the location of interest.
 
 1. Create a new project, import Tango SDK, Download all the objects into this repository.
 
-2. Add "Tango Point Cloud", "Tango Manager", "Tango AR Camera" to Scenes, and setup the same as 
+2. Drag "Tango Point Cloud", "Tango Manager", "Tango AR Camera" into Scenes, and setup the same as 
 Tango-examples-Unity-AugmentedReality.
 
 3. Create a 2D object "screenshotPic" to "Tango AR Camera".
 
-4. Create an object named "GUIController", add script "FeaturesGUIController" to it. 
+4. Create an object named "GUIController", add script "FeaturesGUIController" into it. 
 
-5. Create 2D object "Line", add Text "Distance" to "Line". Adjust their color and size.
+5. Create 2D object "Line", add Text "Distance" into "Line". Adjust their color and size.
 
 6. Find your own icon pictures and add them to FeaturesGUIController.
 
